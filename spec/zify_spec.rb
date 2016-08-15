@@ -6,7 +6,7 @@ describe Zify do
   end
 
   it 'replaces every s with a z' do
-	  expect('super'.coolify).to eq('zuper')
+	  expect('super'.zify).to eq('zuper')
   end
 
   # it 'does something useful' do

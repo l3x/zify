@@ -1,14 +1,14 @@
 class String
-	def coolify
+	def zify
 		self.gsub('s', 'z')
 	end
 
 end
 
-# module Coolify
+# module Zify
 # 	class SomeClass
 #
 # 	end
 # end
 #
-# Coolify::SomeClass.new
+# Zify::SomeClass.new

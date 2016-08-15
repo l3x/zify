@@ -23,7 +23,7 @@ Or install it yourself as:
 
 ```
   it 'replaces every s with a z' do
-	  expect('super'.coolify).to eq('zuper')
+	  expect('super'.zify).to eq('zuper')
   end
 ```
 
